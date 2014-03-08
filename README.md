@@ -55,7 +55,7 @@ Add more sidebars, navigation menus and image sizes, set the default thumbnail s
 			protected $excerpt_length = 40;
 		}
 
-new MyTheme();
+		new MyTheme();
 
 Customize Menu
 --------------
